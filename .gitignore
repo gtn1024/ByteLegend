@@ -9,3 +9,4 @@ out/
 *.tiled-session
 *.tiled-project
 kotlin-js-store/
+.DS_Store

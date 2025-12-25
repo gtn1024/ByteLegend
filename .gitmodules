@@ -1,6 +1,6 @@
 [submodule "server"]
 	path = server
-	url = https://github.com/ByteLegend/server
+	url = git@github.com:ByteLegend/server.git
 [submodule "game-data"]
 	path = game-data
 	url = https://github.com/ByteLegend/game-data
